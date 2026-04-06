@@ -1,0 +1,285 @@
+[
+  {
+    "id": "juan-3-16",
+    "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna.",
+    "cita": "Juan 3:16",
+    "emociones": [0,5,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "filipenses-4-13",
+    "texto": "Todo lo puedo en Aquel que me fortalece.",
+    "cita": "Filipenses 4:13",
+    "emociones": [2,6,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-23-1",
+    "texto": "Jehová es mi pastor; nada me faltará.",
+    "cita": "Salmos 23:1",
+    "emociones": [4,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "jeremias-29-11",
+    "texto": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová, pensamientos de paz, y no de mal, para daros el fin que esperáis.",
+    "cita": "Jeremías 29:11",
+    "emociones": [4,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "isaias-41-10",
+    "texto": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo.",
+    "cita": "Isaías 41:10",
+    "emociones": [6,3,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-34-18",
+    "texto": "Cercano está Jehová a los quebrantados de corazón; y salva a los contritos de espíritu.",
+    "cita": "Salmos 34:18",
+    "emociones": [1,4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "mateo-11-28",
+    "texto": "Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar.",
+    "cita": "Mateo 11:28",
+    "emociones": [3,4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "josue-1-9",
+    "texto": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes.",
+    "cita": "Josué 1:9",
+    "emociones": [2,6],
+    "version": "RVR1960"
+  },
+  {
+    "id": "romanos-8-28",
+    "texto": "Y sabemos que a los que aman a Dios, todas las cosas les ayudan a bien.",
+    "cita": "Romanos 8:28",
+    "emociones": [7,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "proverbios-3-5",
+    "texto": "Fíate de Jehová de todo tu corazón, y no te apoyes en tu propia prudencia.",
+    "cita": "Proverbios 3:5",
+    "emociones": [5,4],
+    "version": "RVR1960"
+  },
+
+  {
+    "id": "salmo-46-1",
+    "texto": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones.",
+    "cita": "Salmos 46:1",
+    "emociones": [6,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "isaias-40-31",
+    "texto": "Pero los que esperan a Jehová tendrán nuevas fuerzas.",
+    "cita": "Isaías 40:31",
+    "emociones": [7,6],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-121-1",
+    "texto": "Alzaré mis ojos a los montes; ¿de dónde vendrá mi socorro?",
+    "cita": "Salmos 121:1",
+    "emociones": [5,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "juan-14-27",
+    "texto": "La paz os dejo, mi paz os doy; yo no os la doy como el mundo la da.",
+    "cita": "Juan 14:27",
+    "emociones": [4,3],
+    "version": "RVR1960"
+  },
+  {
+    "id": "romanos-15-13",
+    "texto": "Y el Dios de esperanza os llene de todo gozo y paz en el creer.",
+    "cita": "Romanos 15:13",
+    "emociones": [0,4,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-37-4",
+    "texto": "Deléitate asimismo en Jehová, y él te concederá las peticiones de tu corazón.",
+    "cita": "Salmos 37:4",
+    "emociones": [0,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "hebreos-11-1",
+    "texto": "Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve.",
+    "cita": "Hebreos 11:1",
+    "emociones": [5,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-56-3",
+    "texto": "En el día que temo, yo en ti confío.",
+    "cita": "Salmos 56:3",
+    "emociones": [3,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-118-24",
+    "texto": "Este es el día que hizo Jehová; nos gozaremos y alegraremos en él.",
+    "cita": "Salmos 118:24",
+    "emociones": [0],
+    "version": "RVR1960"
+  },
+  {
+    "id": "efesios-2-8",
+    "texto": "Porque por gracia sois salvos por medio de la fe.",
+    "cita": "Efesios 2:8",
+    "emociones": [5,7],
+    "version": "RVR1960"
+  },
+
+  {
+    "id": "1-pedro-5-7",
+    "texto": "Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros.",
+    "cita": "1 Pedro 5:7",
+    "emociones": [3,4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-91-1",
+    "texto": "El que habita al abrigo del Altísimo morará bajo la sombra del Omnipotente.",
+    "cita": "Salmos 91:1",
+    "emociones": [4,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "mateo-6-33",
+    "texto": "Mas buscad primeramente el reino de Dios y su justicia.",
+    "cita": "Mateo 6:33",
+    "emociones": [5,2],
+    "version": "RVR1960"
+  },
+  {
+    "id": "2-timoteo-1-7",
+    "texto": "Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio.",
+    "cita": "2 Timoteo 1:7",
+    "emociones": [6,2],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-27-1",
+    "texto": "Jehová es mi luz y mi salvación; ¿de quién temeré?",
+    "cita": "Salmos 27:1",
+    "emociones": [6,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "romanos-12-12",
+    "texto": "Gozosos en la esperanza; sufridos en la tribulación; constantes en la oración.",
+    "cita": "Romanos 12:12",
+    "emociones": [7,0],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-9-9",
+    "texto": "Jehová será refugio del pobre, refugio para el tiempo de angustia.",
+    "cita": "Salmos 9:9",
+    "emociones": [3,4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "juan-16-33",
+    "texto": "En el mundo tendréis aflicción; pero confiad, yo he vencido al mundo.",
+    "cita": "Juan 16:33",
+    "emociones": [6,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-119-105",
+    "texto": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino.",
+    "cita": "Salmos 119:105",
+    "emociones": [5,4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "proverbios-16-3",
+    "texto": "Encomienda a Jehová tus obras, y tus pensamientos serán afirmados.",
+    "cita": "Proverbios 16:3",
+    "emociones": [5,2],
+    "version": "RVR1960"
+  },
+
+  {
+    "id": "salmo-62-1",
+    "texto": "En Dios solamente está acallada mi alma.",
+    "cita": "Salmos 62:1",
+    "emociones": [4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "colosenses-3-15",
+    "texto": "Y la paz de Dios gobierne en vuestros corazones.",
+    "cita": "Colosenses 3:15",
+    "emociones": [4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-30-5",
+    "texto": "Por la noche durará el lloro, y a la mañana vendrá la alegría.",
+    "cita": "Salmos 30:5",
+    "emociones": [1,7],
+    "version": "RVR1960"
+  },
+  {
+    "id": "isaias-26-3",
+    "texto": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera.",
+    "cita": "Isaías 26:3",
+    "emociones": [4,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-147-3",
+    "texto": "Él sana a los quebrantados de corazón, y venda sus heridas.",
+    "cita": "Salmos 147:3",
+    "emociones": [1,4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "hebreos-13-5",
+    "texto": "No te desampararé, ni te dejaré.",
+    "cita": "Hebreos 13:5",
+    "emociones": [7,5],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-55-22",
+    "texto": "Echa sobre Jehová tu carga, y él te sustentará.",
+    "cita": "Salmos 55:22",
+    "emociones": [3,4],
+    "version": "RVR1960"
+  },
+  {
+    "id": "1-corintios-16-13",
+    "texto": "Velad, estad firmes en la fe; portaos varonilmente, y esforzaos.",
+    "cita": "1 Corintios 16:13",
+    "emociones": [6,2],
+    "version": "RVR1960"
+  },
+  {
+    "id": "salmo-16-11",
+    "texto": "En tu presencia hay plenitud de gozo.",
+    "cita": "Salmos 16:11",
+    "emociones": [0],
+    "version": "RVR1960"
+  },
+  {
+    "id": "romanos-5-5",
+    "texto": "La esperanza no avergüenza.",
+    "cita": "Romanos 5:5",
+    "emociones": [7],
+    "version": "RVR1960"
+  }
+]

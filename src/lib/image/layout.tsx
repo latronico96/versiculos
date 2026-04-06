@@ -1,3 +1,5 @@
+import React from 'react';
+
 type Props = {
   texto: string
   cita: string
@@ -12,7 +14,7 @@ export function buildLayout({
   background,
   width,
   height,
-}: Props): JSX.Element {
+}: Props): React.JSX.Element {
   return (
     <div
       style={{

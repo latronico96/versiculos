@@ -1,3 +1,5 @@
+export const runtime = 'edge';
+
 import { NextRequest } from 'next/server'
 import { generateImage } from '@/lib/image/generateImage'
 import versiculos from '@/data/versiculos.json'

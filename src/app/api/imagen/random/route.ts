@@ -15,7 +15,7 @@ export async function GET() {
     headers: {
       'Content-Type': 'image/png',
       // menos cache porque es random
-      'Cache-Control': 'public, max-age=3600',
+      'Cache-Control': 'public, max-age=2',
     },
   })
 }

@@ -30,7 +30,7 @@ export async function GET(req: NextRequest) {
   return new Response(image.body, {
     headers: {
       'Content-Type': 'image/png',
-      'Cache-Control': 'public, max-age=86400',
+      'Cache-Control': 'public, max-age=2',
     },
   })
 }

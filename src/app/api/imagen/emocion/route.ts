@@ -6,14 +6,18 @@ import versiculos from '@/data/versiculos.json'
 
 export async function GET(req: NextRequest) {
   const { searchParams } = new URL(req.url)
-
   const tipo = searchParams.get('tipo')
 
-  let lista = versiculos
+  if (!tipo) {
+    return new Response('Falta tipo', { status: 400 })
+  }
 
-  if (tipo !== null) {
-    const tipoNum = Number(tipo)
-    lista = versiculos.filter((v) => v.emociones.includes(tipoNum))
+  const tipoNum = Number(tipo)
+
+  const lista = versiculos.filter((v) => v.emociones.includes(tipoNum))
+
+  if (lista.length === 0) {
+    return new Response('Sin resultados', { status: 404 })
   }
 
   const random = lista[Math.floor(Math.random() * lista.length)]

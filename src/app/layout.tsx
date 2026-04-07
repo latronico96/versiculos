@@ -1,4 +1,5 @@
 import React from 'react'
+import './globals.css'
 
 export const metadata = {
   title: 'Generador de Imágenes de Versículos',
@@ -12,8 +13,7 @@ export default function RootLayout({
   children: React.ReactNode
 }) {
   return (
-    <html lang="es">
-      {' '}
+<html lang="es">
       <body
         style={{
           margin: 0,

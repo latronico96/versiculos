@@ -1,0 +1,21 @@
+/* Reset de links */
+a {
+  color: #7dd3fc; /* celeste lindo */
+  text-decoration: none;
+  font-weight: 500;
+}
+
+/* Hover */
+a:hover {
+  color: #facc15; /* dorado */
+}
+
+/* Visitados (esto es lo que te está rompiendo) */
+a:visited {
+  color: #7dd3fc;
+}
+
+/* Links dentro de listas (emociones) */
+ul li a {
+  color: #facc15;
+}
